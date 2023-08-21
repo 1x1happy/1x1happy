@@ -11,4 +11,5 @@
       <li>Figma</li>
       <li>Tailwind</li>
       <li>React</li>
+      <li>Redux ToolKit</li>
     </ul>
