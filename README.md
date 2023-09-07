@@ -4,6 +4,7 @@
     <ul align="left">
       <li>HTML</li>
       <li>CSS</li>
+      <li>БЭМ, CSS Modules</li>
       <li>Scss</li>
       <li>JavaScript</li>
       <li>TypeScript</li>
